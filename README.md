@@ -48,7 +48,7 @@
   ```
   4. Run This Command To Execute The Script
   ```bash
-  python3 cypherthis.py
+  python3 CyPHER.py
   ```
 
 # Contributtion 🤝
