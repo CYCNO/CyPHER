@@ -1,0 +1,5 @@
+colorama
+requests
+g4f
+MailTm
+gdshortener
