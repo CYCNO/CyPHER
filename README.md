@@ -9,10 +9,10 @@
 <img src="https://img.shields.io/badge/MADE%20WITH-PYTHON-red?logoColor=red&logo=Python&style=for-the-badge">
 </a>
 <a href="/stargazers">
-<img src="https://img.shields.io/github/stars/CYCNO/cypherthis?logo=adguard&style=for-the-badge">
+<img src="https://img.shields.io/github/stars/CYCNO/CyPHER?logo=adguard&style=for-the-badge">
 </a>
 <a href="/graphs/contributors">
-<img src="https://img.shields.io/github/contributors/CYCNO/cypherthis?style=for-the-badge&color=green&logo=GitHub">
+<img src="https://img.shields.io/github/contributors/CYCNO/CyPHER?style=for-the-badge&color=green&logo=GitHub">
 </a>
 </div>
 
