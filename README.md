@@ -52,7 +52,7 @@
   ```
 
 # Contributtion 🤝
-If you are a developer than you can add your tools too by contributing to this code, it will help us lot ✨ for more see the [docs](https://github.com/CYCNO/CyPHER/blob/main/docs/contribution.md)
+If you are dev, and have some tool(s) created by you, that you think will be good for people, please add your tool(s) in this project by commiting your code and creating a [pull](/pulls) and please don't obfuscate the code because this project is truly about opensource.
 
 # Star History ⭐
 <picture>
