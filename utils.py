@@ -21,7 +21,7 @@ def end_func(funcname):
     print()
     homeOrRestart = input(Fore.RED + "     > Do You Want To Go Main Menu Or Restart this Tools (m/r): ")
     if homeOrRestart == "m":
-        from cypherthis import main
+        from CyPHER import main
         main()
     elif homeOrRestart == "r":
         funcname()
@@ -42,11 +42,11 @@ def readme():
 
 
                 Hello users, I hope you will like the tools provided in this project. If
-                you found any bug that you thought is not caused by your side or is in the
-                code,you can create a new issue in https://github.com/CYCNO/CyPHER/issues
+                you found any bug that you think is not caused by your side or is in the
+                code, you can create a new issue in https://github.com/CYCNO/CyPHER/issues
 
                 There is not much terms or condition because i dont like that, but please don't
-                use this tools to bully, exploit or any type of bad stuff that violate any law,
+                use this tools to bully, exploit or any type of bad stuff that violates any law,
                 also you will be responsible for how you use these tool(s).
 
                 If you are dev, and have some tool(s) created by you, that you think will be good
